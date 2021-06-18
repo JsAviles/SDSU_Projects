@@ -6,9 +6,9 @@
 #                 Claire Fiorino, cssc3053, Red ID: 821765822
 ################################################################
 
-CC = gcc
-FILES = dis.c
-EXEC = dis
+CC = g++
+FILES = xbd.cpp
+EXEC = xbd
 OBJECTS = $(FILES:.c=.o)
 CFLAGS = -c
 
