@@ -1,3 +1,7 @@
+<h1 align="center">Assignment #1 - Unix Directory Reader </h1>
+
+<div align="center">Operating Systems - Spring 2021</div>
+
 # Table of Contents
 
 1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#about)
@@ -12,15 +16,19 @@
 
 ## Functionality
 
-* To get started with compilation and execution on the command line...
+#### To get started with compilation and execution on the command line...
 
-        make
-        ...
-        myls "see Note"
+* Type **make** as shown below
+
+        $ make
+
+* Then use the executable name **myls**
+
+        $ myls "see Note"
     
 * Note - Command line arguments
 
-    1. If no command line arguments are given, only the currently directory with non hidden files or directories will be listed (see below).
+    1. If no command line arguments are given, the cwd (current working directory) will be listed only showing non-hidden files or directories (see below).
     2. If the optional flag, -h (for hidden), is specified, then the currently directory and all hidden files or directories will also be listed. Note that -h must be specified after the executable name at position argv[1].
     3. One or more command line arguments shall be accepted. Each argument input should name a directory to list.
         * i.e. "myls Pictures Documents" will list the flies in directories "Pictures" followed by the files in "Documents".
@@ -39,7 +47,7 @@
 
     Contact info:
 
-    * Email: sebastian_aviles@yahoo.com
+    * sebastian_aviles@yahoo.com
 
     * [Linkedin](https://www.linkedin.com/in/sebastian-aviles-215b3471/)
 
