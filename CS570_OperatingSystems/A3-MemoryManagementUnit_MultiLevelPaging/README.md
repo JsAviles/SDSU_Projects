@@ -7,7 +7,8 @@
 1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#about)
 2. [Brigham Young University Trace Distribution Center](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Brigham-Young-University-Trace-Distribution-Center)
 3. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Functionality)
-4. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Contributors)
+4. [Sample Output](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Sample-output)
+5. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Contributors)
 
 ## About
 
@@ -58,11 +59,11 @@
             * ***summary*** - Display the summary statistics which include: page size, number of addresses processed, hit and miss rates, bytes required for the pagetable, and the number of frames allocated.
         * If no output mode is selected then the program will default to ***summary***
 
-* Sample output
+## Sample output
 
-    `$ pagetable -n 10000 -o summary trace.sample.tr 4 4 8`
+`$ pagetable -n 10000 -o summary trace.sample.tr 4 4 8`
 
-    ![alt text](https://i.gyazo.com/f0240665df41870dcbfbd5053e2d678b.png)
+![alt text](https://i.gyazo.com/f0240665df41870dcbfbd5053e2d678b.png)
 
 ## Contributors
 

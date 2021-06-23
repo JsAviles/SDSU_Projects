@@ -6,7 +6,8 @@
 
 1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#about)
 2. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Functionality)
-3. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Contributors)
+3. [Sample Output](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Sample-output)
+4. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Contributors)
 
 ## About
 
@@ -32,11 +33,11 @@
         * Incorrect spelling
         * File not found or inacessible
 
-* Sample output
+## Sample output
 
-    `$ wordcount test2.txt`
+`$ wordcount test2.txt`
 
-    ![alt text](https://i.gyazo.com/4aa6ff835d74c6f9bd142ae816f0a41c.png)
+![alt text](https://i.gyazo.com/4aa6ff835d74c6f9bd142ae816f0a41c.png)
 
 ## Contributors
 

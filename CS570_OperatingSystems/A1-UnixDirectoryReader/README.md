@@ -6,7 +6,8 @@
 
 1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#about)
 2. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Functionality)
-3. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Contributors)
+3. [Sample Output](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Sample-output)
+4. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Contributors)
 
 ## About
 
@@ -37,12 +38,12 @@
     5. The standard output for listing directories is as follows:
         1. Directory name
         2. All file names in the listed directory with one file name per line
-        3. Access Error if encountered
-* Sample output
+        
+## Sample output
 
-    `$ myls -h dir1 dir2`
+`$ myls -h dir1 dir2`
 
-    ![alt text](https://i.gyazo.com/95c85a30dcb346e23d043d93046468f5.png)
+![alt text](https://i.gyazo.com/95c85a30dcb346e23d043d93046468f5.png)
 
 ## Contributors
 
