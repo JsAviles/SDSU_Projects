@@ -11,7 +11,10 @@
 
 ## About
 
-    This project was created to understand how memory mapping works by simulating multi-level paging. This project helped us gain crucial knowledge and practice implementing pointers on a larger scale. The specification given was to assume a 32 bit logical address space and allow the user to create an N-level page tree. We must also assume an infinite number of frames are available and may ignore page replacement algorithms for the scope of this project.
+    This project was created to understand how memory mapping works by simulating multi-level paging. This project helped us 
+    gain crucial knowledge and practice implementing pointers on a larger scale. The specification given was to assume 
+    a 32 bit logical address space and allow the user to create an N-level page tree. We must also assume an infinite 
+    number of frames are available and may ignore page replacement algorithms for the scope of this project.
 
 ## Brigham Young University Trace Distribution Center
 
@@ -34,7 +37,8 @@
         $ pagetable trace.sample.tr 4 4 8
 
             • The above will created a 3 level page table with 4 bits for levels 0 and 1, and 8 bits for level 2.
-            • Note that any number of pages may be designated but because we are assuming a 32 bit logical address, the page sizes may not exceed a total of 31 bits.
+            • Note that any number of pages may be designated but because we are assuming a 32 bit logical address, 
+              the page sizes may not exceed a total of 31 bits.
     
 * **Optional Arguments (user Interface):**
 
