@@ -11,9 +11,7 @@
 
 ## About
 
-    The scope of this project was to familiarize ourselves with making system calls, reading the Linux/Unix "Man" pages, and executing 
-    programs correctly on systems implementing the POSIX standard via the use of makefiles. This small project allows the user to 
-    list out the current working directory or sub directories depending on the user input, please see below for details.
+The scope of this project was to familiarize ourselves with making system calls, reading the Linux/Unix "Man" pages, and executing programs correctly on systems implementing the POSIX standard via the use of makefiles. This small project allows the user to list out the current working directory or sub directories depending on the user input, please see below for details.
 
 ## Functionality
 

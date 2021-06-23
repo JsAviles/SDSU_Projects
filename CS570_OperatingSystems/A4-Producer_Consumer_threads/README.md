@@ -11,10 +11,7 @@
 
 ## About
 
-    This project simulates a candy factory conveyor belt with 2 workers, Lucy and Ethel (as seen in I love Lucy). 
-    The factory "Mizzo" produces two types of candy: crunchy frog bites and everlasting escargot suckers.
-    The conveyor belt (acting as our bounded buffer) may only hold up to 10 candies at any given time with a restriction of 3 frog bites at most.
-    Candies are boxed in the order they are produced.To accomplish the producer/consumer simulation problem, we will use 4 threads, a bounded buffer, and the implementation of semaphors with critical sections.
+This project simulates a candy factory conveyor belt with 2 workers, Lucy and Ethel (as seen in I love Lucy). The factory "Mizzo" produces two types of candy: crunchy frog bites and everlasting escargot suckers. The conveyor belt (acting as our bounded buffer) may only hold up to 10 candies at any given time with a restriction of 3 frog bites at most. Candies are boxed in the order they are produced. To accomplish the producer/consumer simulation problem, we will use 4 threads, a bounded buffer, and the implementation of semaphors with critical sections.
 
 ## Functionality
 
@@ -42,7 +39,7 @@
 
 ## Sample output
 
-`$ mizzo -f 5 -e 15 -E 35 -L 20`
+    $ mizzo -f 5 -e 15 -E 35 -L 20
 
 ![alt text](https://i.gyazo.com/36be930a952addf92ac115d099da2e18.png)
 

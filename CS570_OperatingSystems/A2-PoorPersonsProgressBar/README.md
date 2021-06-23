@@ -11,7 +11,7 @@
 
 ## About
 
-    The scope of this project is to gain experience working with POSIX threads. Using multiple threads, the script shall accept a file as input on the command line, count how many words and bytes are in the file while simultaneously printing out '+' or '-' to simulate a progress bar loading which is tracking the % of the file being read in real time. Once the progress bar thread completes its assigned task, the output will then display how many words the input file contains.
+The scope of this project is to gain experience working with POSIX threads. Using multiple threads, the script shall accept a file as input on the command line, count how many words and bytes are in the file while simultaneously printing out '+' or '-' to simulate a progress bar loading which is tracking the % of the file being read in real time. Once the progress bar thread completes its assigned task, the output will then display how many words the input file contains.
 
 ## Functionality
 
