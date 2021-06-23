@@ -11,11 +11,10 @@
 
 ## About
 
-    This project was created to understand how memory mapping works by simulating multi-level paging. This project helped us gain 
-    crucial knowledge and practice implementing pointers on a larger scale. The specification given was to assume a 32-bit 
-    logical address space and allow the user to create an N-level page tree. We must also assume an infinite 
-    number of frames 
-    are available and may ignore page replacement algorithms for the scope of this project.
+    This project was created to understand how memory mapping works by simulating multi-level paging. 
+    This project helped us gain crucial knowledge and practice implementing pointers on a larger scale. 
+    The specification given was to assume a 32-bit logical address space and allow the user to create an N-level page tree. 
+    We must also assume an infinite number of frames are available and may ignore page replacement algorithms for the scope of this project.
 
 ## Brigham Young University Trace Distribution Center
 
