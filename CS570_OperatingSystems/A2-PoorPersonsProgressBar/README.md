@@ -20,7 +20,7 @@
 
         $ make
 
-* Then use the executable name **wordcount** follow by the **file** to be read.
+* Then use the executable name **wordcount** followed by the **file** to be read.
 
         $ wordcount "inputfile.txt"
     
