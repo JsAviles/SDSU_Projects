@@ -4,9 +4,9 @@
 
 # Table of Contents
 
-1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#about)
-2. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Functionality)
-3. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Contributors)
+1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#about)
+2. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Functionality)
+3. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A2-PoorPersonsProgressBar#Contributors)
 
 ## About
 

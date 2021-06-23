@@ -4,10 +4,10 @@
 
 # Table of Contents
 
-1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#about)
-2. [Brigham Young University Trace Distribution Center](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Brigham-Young-University-Trace-Distribution-Center)
-3. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Functionality)
-4. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A1-UnixDirectoryReader#Contributors)
+1. [About](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#about)
+2. [Brigham Young University Trace Distribution Center](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Brigham-Young-University-Trace-Distribution-Center)
+3. [Functionality](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Functionality)
+4. [Contributors](https://github.com/JsAviles/SDSU_Projects/tree/main/CS570_OperatingSystems/A3-MemoryManagementUnit_MultiLevelPaging#Contributors)
 
 ## About
 
