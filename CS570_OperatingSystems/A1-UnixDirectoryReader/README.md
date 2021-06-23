@@ -16,7 +16,7 @@
 
 ## Functionality
 
-#### To get started with compilation and execution on the command line...
+### To get started with compilation and execution on the command line...
 
 * Type **make** as shown below
 
@@ -38,6 +38,11 @@
         1. Directory name
         2. All file names in the listed directory with one file name per line
         3. Access Error if encountered
+* Sample output
+
+    `$ myls -h dir1 dir2`
+
+    ![alt text](https://i.gyazo.com/95c85a30dcb346e23d043d93046468f5.png)
 
 ## Contributors
 
