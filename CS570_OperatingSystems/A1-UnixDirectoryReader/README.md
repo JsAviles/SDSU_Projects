@@ -49,8 +49,6 @@ The scope of this project was to familiarize ourselves with making system calls,
 
     ![alt text](https://i.gyazo.com/30c872a61a8257508866840b44592530.png)
 
-    Contact info:
-
     * sebastian_aviles@yahoo.com
 
     * [Linkedin](https://www.linkedin.com/in/sebastian-aviles-215b3471/)
